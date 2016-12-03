@@ -1,0 +1,13 @@
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+c:\users\gtms\desktop\pdm scrap\F16_AE_RearWing_SwanNecks-Static 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Static 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Static 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Static 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Buckling 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Buckling 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Buckling 1
+C:\Users\GTMS\Desktop\PDM Scrap\F16_PT_DiffCarrier_Left-Buckling 1
