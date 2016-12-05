@@ -1,0 +1,14 @@
+
+* Other team's rear endplates.
+
+From what I've observed, the rear endplates have varied shapes. I can't observe any angle when it comes to change in angle from top view.
+I'd imagine that having an angled endplate would help turn the car AND would shift the center of pressure backwards while turning. This should make the car a little more manageable in the future.
+
+I wonder how different shapes create different vortices. Obviously this region must have a fine mesh when we use Docker to test our design.
+To future V, I wish you Godspeed on your endeavors.
+
+
+
+
+
+
