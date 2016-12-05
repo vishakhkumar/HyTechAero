@@ -1,0 +1,42 @@
+
+
+* Parametric modelling
+
+I've made parametric models for most of my parts without reference to the car chasis. This has been done for two reasons - to avoid external references as much as possible and to ensure that models can be reused.
+I have no desire to repeat work for no reason, even if this method requires me to exert a little more effort in the beginning.
+
+* Features as git branches
+
+This is something I must insist on while working on this project - the need for careful creation and documentation of features is often understated when it comes to Solidworks models.
+Thus I've implemented a system of creating an important file/assembly in its own branch. This branch may be refered to as a feature if we have programming nerds among us.
+These features must be merged back into the develop branch once completed. The modification of the features can be done is a new branch with the same branch.
+
+The branches should be deleted after completion of feature. While this may seem archaic compared to programming models, I use this to keep my development clean from unwanted branches. 
+Should you decide to keep a branch open for perpetuity, you better have a solid reason for it.
+
+* Git with Solidworks, and Zip files
+
+** git with solidworks
+One might wonder why I'm using git for a project involving Solidworks files. After all, solidworks files are neither human-readable nor are their changes trackable by git.
+The short answer is that I'm using git for maintaining records and for code that will be written for OpenFOAM. Keeping Solidworks in there is simply to be used in the event that a file cannot be salvaged.
+
+** zip files
+Zip files exist as hard archives of parts. They should not be used, save for catastrophe.
+They shall not be viewed by git and will never be considered as part of a commit.
+
+* Master and Development branch
+
+As of now, the aerokit is in development and thus the master branch and development branch are the same.
+Upon completion of a significant number of parts, we shall work on two seperate branches - master and development.
+
+** master branch 
+The master branch shall exist for parts that are ready to be manufactured or are stable.
+This branch is mainly used to track progress as it evolves over time.
+
+** develop branch
+This branch shall exist for most development. Of course most features shall be added by creating seperate branches and then merging with the develop branch, but keeping the develop branch is useful.
+
+
+
+
+
