@@ -1,0 +1,37 @@
+
+* Driver's Helmet
+
+I'm not sure why but for some reason no one ever considers the helmet when they take aerodynamics into account.
+That's rather sad. So take the helmet into account. 
+
+** Bonus Points
+Take into account that the driver tilts his head while turning. Find out how that affects aerodynamics.
+I'm pretty sure that taking that into consideration will be a pretty good sign.
+
+* Gurney Flap
+
+We could have a gurney flap right in front of the driver to take all that air and divert it above his head.
+This would remove the drag caused by the space required by the driver.
+
+However, you would definitely need to watch out for the driver's vision. Just keep that in mind.
+
+* Slope near the sides of the driver
+
+Now I know that Russell asked us to make some sort of structure over there so that the driver can get out.
+
+Fuck the driver. We're using that for aerodynamics. 
+
+So create a variable slope over there and look at how it affects the air behind the seat. I'm guessing that by bouncing the air of the slope and onto the rear airfoil, you get compound effects.
+So use the fucking seat!
+
+* Vortex generators just behind the seat
+
+F1 doesn't allow you to have vortex generators near the seat. But FSAE doesn't have any rules against that.
+So look at how vortices can improve or destroy the airflow after the seat.
+
+* Aerodynamic devices to the sides of the driver's helmet.
+If used properly, you could greatly increase how aerodynamic the car is just by filling up the space between a helmet and the car body.
+However, I wonder how much of an effect it would have on driver safety.
+
+Speaking of driver safety, who's on that?
+
