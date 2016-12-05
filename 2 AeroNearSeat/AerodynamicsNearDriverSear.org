@@ -10,10 +10,14 @@ I'm pretty sure that taking that into consideration will be a pretty good sign.
 
 * Gurney Flap
 
+** Gurney flap in front of the driver.
 We could have a gurney flap right in front of the driver to take all that air and divert it above his head.
 This would remove the drag caused by the space required by the driver.
 
+** Angles edges near the edges of the 
 However, you would definitely need to watch out for the driver's vision. Just keep that in mind.
+
+We could also have gurney flaps near the sides of the car. There aren't any rules about that, right?
 
 * Slope near the sides of the driver
 
@@ -34,4 +38,10 @@ If used properly, you could greatly increase how aerodynamic the car is just by 
 However, I wonder how much of an effect it would have on driver safety.
 
 Speaking of driver safety, who's on that?
+
+* Rubber flaps near the place where the driver is supposed to hold when he enters the car.
+
+I wonder if we can manufacture rubber pads that can act as rough surfaces. That way, I can get turbulent flow without having a fancy airfoil right above the driver.
+
+Although, I'd imagine that it wouldn't be that hard to make a fancy airfoil above the driver's head.
 
