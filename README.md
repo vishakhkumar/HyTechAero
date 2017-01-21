@@ -1,2 +1,4 @@
 # HyTechAero
-Aero for HyTech. Because apparently I code for engineering :)
+
+Files for HyTech Racing Aero/Composites Team.
+For more information, contact me at vkumar@gatech.edu
