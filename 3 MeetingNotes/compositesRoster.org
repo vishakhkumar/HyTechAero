@@ -1,0 +1,18 @@
+
+|--------------+-----------+-----------------------+----------------------------+----------------+---------------------+------------------+------------------------+----------|
+| First Name   | Last Name | Email (Gatech)        | Email (Other)              |   Phone number | Residence Hall      | Driver's Lisence | Waterjet Certification | CNC Mill |
+|--------------+-----------+-----------------------+----------------------------+----------------+---------------------+------------------+------------------------+----------|
+| Vishakh      | Kumar     | vkumar@gatech.edu     | vishakhkumar1997@gmail.com |     4709856530 | Woodruff            | N                | Y                      | N        |
+| Wright       | Bishop    | vwright8@gatech.edu   | ve.bishop.wright@gmail.com |     3104982192 | Towers              | Y                | N                      | N        |
+| Dharshan     | Rammohan  | drammohan3@gatech.edu | dhrmssrd68@gmail.com       | (845)-728-5594 | Woodruff            | Y                | N                      | N        |
+| Connor       | DePeter   | cdepeter3@gatech.edu  | connorjdepeter@gmail.com   |     7702359866 | Center Street       | N                | N                      | N        |
+| Mason        | Kirchfeld | mkirchfeld@gatech.edu | masonkirchfeld@gmail.com   |     5616760352 | Glenn               | Y                | N                      | N        |
+| Jay          | Patel     | jpatel330@gatech.edu  | kyumi1234@yahoo.com        |     9123210897 | North Avenue        | Y                | N                      | N        |
+| Isaac-Josiah | Olumor    | iolumor3@gatech.edu   | zikjoe@gmail.com           |     8322024482 | North Avenue        | N                | N                      | N        |
+| James        | Ergle     | jergle6@gatech.edu    | james.ergle1@gmail.com     |     6784271788 | Woodruff North      | Y                | N                      | N        |
+| Nabeel       | Mahmood   | nmahmood@gatech.edu   | nabeel_a_mahmood@yahoo.com |     4042592933 | Center Street South | Y                | N                      | N        |
+|--------------+-----------+-----------------------+----------------------------+----------------+---------------------+------------------+------------------------+----------|
+
+
+
+jaypatel
